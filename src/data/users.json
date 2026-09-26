@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Patel",
+    "email": "rahul@company.com",
+    "password": "123456",
+    "role": "support",
+    "avatar": "RP",
+    "department": "IT Support Tier 2",
+    "created_at": "2026-01-10T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Neha Sharma",
+    "email": "neha@company.com",
+    "password": "123456",
+    "role": "support",
+    "avatar": "NS",
+    "department": "Hardware & Infrastructure",
+    "created_at": "2026-02-15T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Amit Shah",
+    "email": "amit@company.com",
+    "password": "123456",
+    "role": "employee",
+    "avatar": "AS",
+    "department": "Marketing",
+    "created_at": "2026-03-01T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Priya Shah",
+    "email": "priya@company.com",
+    "password": "123456",
+    "role": "employee",
+    "avatar": "PS",
+    "department": "Finance",
+    "created_at": "2026-04-12T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Demo Support Staff",
+    "email": "support@company.com",
+    "password": "123456",
+    "role": "support",
+    "avatar": "SS",
+    "department": "Helpdesk Operations",
+    "created_at": "2026-01-01T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Demo Employee",
+    "email": "employee@company.com",
+    "password": "123456",
+    "role": "employee",
+    "avatar": "DE",
+    "department": "Product Engineering",
+    "created_at": "2026-01-01T08:00:00Z"
+  }
+]
